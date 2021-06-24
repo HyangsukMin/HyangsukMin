@@ -1,6 +1,9 @@
 <div align = center><h2> Hi, there 👋 </h2></div>
 
 <div align = center><h1> This is HYANGSUK MIN 🏃‍♀️🏃‍♀️🤸‍♀️🤸‍♀️ </h1></div>
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
 <!--
 **HyangsukMin/HyangsukMin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
