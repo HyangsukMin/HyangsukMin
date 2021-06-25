@@ -3,12 +3,12 @@
 ![https://komarev.com/ghpvc/?username=congchu](https://komarev.com/ghpvc/?username=congchu)
 
 
-## 👋 &nbsp;풀스택 개발자 정쿠입니다. ☺️
+## 👋 &nbsp;Hi, there. This is HYANGSUK MIN ☺️
 
-✔️ &nbsp;스타트업 환경에 맞는 빠른 주기 개발, 특히 애자일 환경에 익숙합니다.\
-✔️ &nbsp;이슈 트래킹, 배포 히스토리 등의 기술 문서 작성을 중요하게 생각합니다.\
-✔️ &nbsp;개발자의 편한 개발보다 사용자의 편의를 더 중요하게 생각합니다.\
-✔️ &nbsp;저에 대해 궁금하시다면, <a href="https://congchu.github.io/portfolio-1">제 포트폴리오</a>를 방문해주세요.
+✔️ &nbsp;TBC.\
+✔️ &nbsp;TBC.\
+✔️ &nbsp;TBC.\
+✔️ &nbsp;TBC, <a href="TBC">제 포트폴리오</a>를 방문해주세요.
 
 
 ### 🛠 &nbsp;Technical Skills
