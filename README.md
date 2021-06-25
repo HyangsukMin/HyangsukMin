@@ -6,7 +6,7 @@
 
 ## 👋 &nbsp;Hi, there. This is HYANGSUK MIN ☺️
 
-✔️ &nbsp;TBC.\
+✔️ &nbsp;Software 및 Hardware 개발자.\
 ✔️ &nbsp;TBC.\
 ✔️ &nbsp;TBC.\
 ✔️ &nbsp;TBC, <a href="TBC">제 포트폴리오</a>를 방문해주세요.
