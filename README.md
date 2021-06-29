@@ -4,7 +4,7 @@
 ![https://komarev.com/ghpvc/?username=congchu](https://komarev.com/ghpvc/?username=congchu)
 -->
 
-## 👋 &nbsp;Hi, there. This is HYANGSUK MIN ☺️
+## 👋 &nbsp;Hi, there. This is HYANGSUK MIN 👋
 
 ✔️ &nbsp;Software 및 Hardware 개발자.\
 ✔️ &nbsp;TBC.\
