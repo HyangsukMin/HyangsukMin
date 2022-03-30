@@ -4,15 +4,15 @@
 ![https://komarev.com/ghpvc/?username=congchu](https://komarev.com/ghpvc/?username=congchu)
 -->
 
-## 👋 &nbsp;Hi, there. This is HYANGSUK MIN 👋
-
+## 👋 Data Scientists & ML/DL Researcher👋
+<!---
 ✔️ &nbsp;Software 및 Hardware 개발자.\
 ✔️ &nbsp;TBC.\
 ✔️ &nbsp;TBC.\
 ✔️ &nbsp;TBC, <a href="TBC">제 포트폴리오</a>를 방문해주세요.
+-->
 
-
-### 🛠 &nbsp;Technical Skills
+#### 🛠 &nbsp;Technical Skills
 <!--![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -25,15 +25,14 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=rstudio)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 -->
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow)&nbsp;
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch)&nbsp;
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;\
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow)&nbsp;\
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch)&nbsp;\
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras)&nbsp;\
 ![Perl](https://img.shields.io/badge/-Perl-41436D?style=flat&logo=Perl)&nbsp;\
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;\
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
 <br/>
 
 <!--
